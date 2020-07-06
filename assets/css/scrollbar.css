@@ -1,0 +1,10 @@
+/*滚动条样式*/
+::selection{background:#169ADA;text-shadow:none;color:#fff;}
+::-webkit-scrollbar{width:10px;height:8px;}
+::-webkit-scrollbar-button{display:none}
+::-webkit-scrollbar-track{background-color:black}
+::-webkit-scrollbar-track-piece{background:#ddd}
+::-webkit-scrollbar-thumb{background-color: #169ADA;border-radius: 16px;}
+::-webkit-scrollbar-thumb:hover{background-color:#3B3B3B}
+::-webkit-scrollbar-corner{background-color:#535353}
+::-webkit-scrollbar-resizer{background-color:#FF6E00}
